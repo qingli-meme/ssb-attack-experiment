@@ -1,0 +1,9 @@
+scenario,trigger_size,asr,success,attempted
+oga,10,0.0,0,241
+oga,20,0.0,0,235
+oga,30,0.0,0,230
+oga,40,0.0,0,229
+oga,50,0.0,0,223
+oga,60,0.0,0,218
+oga,80,0.0,0,206
+oga,100,0.0,0,196
